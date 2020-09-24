@@ -1,4 +1,7 @@
-### Hi there 👋
+# Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjlharrison&langs_count=8&layout=compact&title_color=000)
+![James's Github Stats](https://github-readme-stats.vercel.app/api?username=jjlharrison&count_private=true&show_icons=true&line_height=24&title_color=000)
 
 <!--
 **jjlharrison/jjlharrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
